@@ -1,5 +1,5 @@
-## About Resume-ATS-Score
-This uses Google Gemini Pro to access your resume and give you insights based on the job description. 
+## Resume-ATS-Score
+This uses Google's Gemini Pro to parse your resume and give you insights based on the job description. It tells your resume's percentage match wrt job description along with missing key points. 
 
 ## Setup
 
